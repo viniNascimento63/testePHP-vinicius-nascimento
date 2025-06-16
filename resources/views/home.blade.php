@@ -17,7 +17,7 @@
                             <p class="display-6 mb-5 text-secondary opacity-50">Não há vagas disponíveis.</p>
                             @if ($user == 'empresa')
                                 <a href="{{ route('new') }}" class="btn btn-secondary btn-lg p-3 px-5">
-                                    >Criar primeira vaga
+                                    Criar primeira vaga
                                 </a>
                             @endif
                         </div>
