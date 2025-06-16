@@ -4,7 +4,7 @@
 1) Clonar o projeto num caminho semelhante a: **\\wsl.localhost\Ubuntu\home\usuario\projects**
 2) executar o comando via terminal WSL: **composer update**
 3) executar o comando via terminal WSL: **npm update**
-4) executar o comando via terminal WSL: **./vendor/bin/sail up -d**
+4) executar o comando via terminal WSL: **./vendor/bin/sail up -d (pode demorar um pouco)**
 5) executar o comando via terminal WSL: **./vendor/bin/sail artisan migrate**
 6) executar o comando via terminal WSL: **./vendor/bin/sail artisan db:seed --class EmpresasTableSeeder**
 
